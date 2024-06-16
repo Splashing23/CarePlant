@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "792202262686",
+    "firebase_url": "https://careplant-5c9eb-default-rtdb.firebaseio.com",
+    "project_id": "careplant-5c9eb",
+    "storage_bucket": "careplant-5c9eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792202262686:android:bad41a7b5da6326715638f",
+        "android_client_info": {
+          "package_name": "com.example.careplant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792202262686-s7ct1u74hf4up0quimot0i79ipp76t2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzwQOLKracWXElrnPQ9rDVywBv6efhAcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792202262686-s7ct1u74hf4up0quimot0i79ipp76t2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
